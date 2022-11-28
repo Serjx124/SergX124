@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sergii
+- 👋 Hi, I’m @SergX124
 - 👀 I’m interested in blockchain, crypto, web. 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on cryptoprojects
