@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SergX124
-- 👀 I’m interested in blockchain, crypto, web. 
+- 👀 I’m interested in blockchain & web. 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on cryptoprojects
 - 📫 How to reach me: twitter - @SergiusX124
