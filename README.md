@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sergii
-- 👀 I’m interested in blockchain & webdev. 
-- 🌱 I’m currently learning JavaScript & react.js
-- 💞️ I’m looking to collaborate on cryptoprojects
+- 👀 interested in blockchain, cryptography & webdev. 
+- 🌱 currently learning JavaScript & react.js
 - 📫 How to reach me: twitter - @Serjx124
 
 <!---
